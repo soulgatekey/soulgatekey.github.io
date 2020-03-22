@@ -6,7 +6,7 @@ Chinese Simplified 简体中文
 **Beta1.0:**  
 &nbsp;&nbsp;&nbsp;网站建立  
 
-#SoulGateKey‘blog update log
+# SoulGateKey‘Blog Changes Log
   
 English  英语  
 **Beta 2.0 (big change):**  
