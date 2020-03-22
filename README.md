@@ -5,7 +5,9 @@ Chinese Simplified 简体中文
 &nbsp;&nbsp;&nbsp;添加github地址、联系地址、B站主页超链接  
 **Beta1.0:**  
 &nbsp;&nbsp;&nbsp;网站建立  
-#SoulGateKey‘blog update log  
+
+#SoulGateKey‘blog update log
+  
 English  英语  
 **Beta 2.0 (big change):**  
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  Change Page Style and Source  
